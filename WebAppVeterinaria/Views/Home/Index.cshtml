@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" action="">
+    <div>
+        <label>Nombre:</label>
+        <input type="text" id="txtNombre" name="txtNombre" />
+    </div>
+    <div>
+        <label>Apellido:</label>
+        <input type="text" id="txtApellido" name="txtApellido" />
+    </div>
+    <div>
+        <label>Cedula:</label>
+        <input type="text" id="txtCedula" name="txtCedula" />
+    </div>
+    <div>
+        <label>Telefono:</label>
+        <input type="text" id="txttelefono" name="txttelefono" />
+    </div>
+    <div>
+       <button type="submit">Enviar</button>
+    </div>
+</form>
+
+@{
+    if ()
+    {
+        
+    }
+}
+
+
+
+
+    
+@{
+    var nombre= "Mauricio";
+    var edad = 30 ;
+
+    var nombres = new List<string> { "Ana", "Dario", "Esteban", "Juan", " Martha" };
+
+    var personas = new List<Persona>{
+        new Persona
+        {
+            Cedula = "5676543",
+            Nombre = "juan",
+            Apellido = " Sanchez",
+            Telefono= "3124563457"
+        },
+         new Persona
+        {
+            Cedula = "9853347",
+            Nombre = "Mateo",
+            Apellido = " Giraldo",
+            Telefono= "8762678"
+        },
+         new Persona
+        {
+            Cedula = "98763",
+            Nombre = "Mauricio",
+            Apellido = " Diaz",
+            Telefono= "313454328"
+        },
+    };
+}
+@*
+<h2>@nombre tiene @edad años</h2>
+
+@{
+    var vocales = new List<char> { 'a', 'e', 'i', 'o', 'u' };
+    if (vocales.Contains(nombre.ToLower()[0]))
+    {
+        <span> la primer letra del nombre es vocal.</span>
+    }
+    else
+    {
+        <span> la primer letra del nombre es consonante.</span>
+    }
+}
+
+<ul>
+    
+
+@foreach (var nom in nombres && )
+{
+    <li> <p>@nom</p></li>
+}
+</ul>
+<ul>
+    @for (int i = 0; i < nombres.Count; i++ )
+{
+        <li> <p>@nombres[i]</p></li>
+}
+</ul>
+
+<ul>
+@{
+    var j = 0;
+    while(j < nombres.Count)
+    {
+            <li> <p>@nombres[j]</p></li>
+            j++;
+    }
+    
+}
+</ul>
+*@
+
+@foreach (var persona  in personas)
+{
+    <p>
+        <b>Nombre: </b> @persona.Nombre
+        <b>Apellido: </b> @persona.Apellido
+        <b>Cedula: </b> @persona.Cedula
+        <b>Telefono: </b> @persona.Telefono
+    </p>
+}
+

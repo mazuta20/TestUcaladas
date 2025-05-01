@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|d:\\mauro\\desktop\\web2\\veterinaria\\webappveterinaria\\models\\personasmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|solutionrelative:models\\personasmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|d:\\mauro\\desktop\\web2\\veterinaria\\webappveterinaria\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|d:\\mauro\\desktop\\web2\\veterinaria\\webappveterinaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E3F6637-D4AC-4882-ABE4-226086592C63}|WebAppVeterinaria.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasModels.cs",
+              "DocumentMoniker": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Models\\PersonasModels.cs",
+              "RelativeDocumentMoniker": "Models\\PersonasModels.cs",
+              "ToolTip": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Models\\PersonasModels.cs",
+              "RelativeToolTip": "Models\\PersonasModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T02:29:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:37:48.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Mauro\\Desktop\\WEB2\\Veterinaria\\WebAppVeterinaria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T00:02:21.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
